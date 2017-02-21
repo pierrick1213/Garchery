@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hello Pipolo
+=======
+>>>>>>> parent of 2ed1894... Coucou v2
